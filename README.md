@@ -10,7 +10,7 @@ My personal GitHub profile
 
 Уверенно работаю с консольными приложениями, файловым вводом/выводом, STL. 💻
 
-Сейчас в портфолио:[PasswordManager](github.com/Evgeniy19999/PasswordManager) 📌
+Сейчас в портфолио:[PasswordManager](https://github.com/Evgeniy19999) 📌
 
 Контакты 📨
 - Email: evgeniy56632@hotmail.com 
